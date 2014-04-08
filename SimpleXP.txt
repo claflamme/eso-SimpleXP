@@ -1,0 +1,14 @@
+## Title: SimpleXP
+## APIVersion: 100003
+## SavedVariables: SimpleXP_SavedVariables
+## Version: 0.0.0
+## OptionalDependsOn: LibAddonMenu-1.0 LibMediaProvider-1.0
+
+SimpleXP.xml
+lib/LibStub.lua
+lib/LibAddonMenu-1.0.lua
+lib/LibMediaProvider-1.0.lua
+Main.lua
+Defaults.lua
+Menu.lua
+Events.lua
