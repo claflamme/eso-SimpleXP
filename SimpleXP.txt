@@ -2,7 +2,7 @@
 ## APIVersion: 100003
 ## SavedVariables: SimpleXP_SavedVariables
 ## Version: 0.0.0
-## OptionalDependsOn: LibAddonMenu-1.0 LibMediaProvider-1.0
+## OptionalDependsOn: LibAddonMenu-1.0, LibAnimation-1.0, LibStub
 
 SimpleXP.xml
 lib/LibStub.lua
