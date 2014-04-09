@@ -1,7 +1,7 @@
 ## Title: SimpleXP
 ## APIVersion: 100003
 ## SavedVariables: SimpleXP_SavedVariables
-## Version: 0.0.0
+## Version: 0.0.1
 ## OptionalDependsOn: LibAddonMenu-1.0, LibAnimation-1.0, LibStub
 
 SimpleXP.xml
